@@ -17,19 +17,19 @@ Here’s some of what I’ve been working on recently. These projects show off m
 
 - 🔥 **DevLink (SaaS Starter Kit)**  
   * **What it is:** A secure, production-ready backend boilerplate built for rapid feature development and scaling. It’s my blueprint for clean architecture and auth.  
-  * Demo: **[Coming soon]** * Repo: **[DevLink repo](https://github.com/kanyingidickson-dev/DevLink)**
+  * Demo: **[Coming soon]** * Repo: **[DevLink repository](https://github.com/kanyingidickson-dev/DevLink)**
     
 - ⚡ **Real-Time API Gateway**  
   * **What it is:** A high-concurrency Node.js gateway leveraging WebSockets to handle low-latency data. Optimized for performance and scalability.  
-  * Demo: **[Coming soon]** * Repo: **[Real-Time-API-Gateway repo](https://github.com/kanyingidickson-dev/Real-Time-API-Gateway)**
+  * Demo: **[Coming soon]** * Repo: **[Real-Time-API-Gateway repository](https://github.com/kanyingidickson-dev/Real-Time-API-Gateway)**
     
 - 🛡️ **TaskForge (Real-Time Team Task Tracker)**
   * **What it is:** A scalable, real-time team task management solution utilizing **WebSockets** for instant data synchronization and **Apache 2.0** licensing for enterprise safety.
-   * Demo: **[Coming soon]** * Repo: **[TaskForge repo](https://github.com/kanyingidickson-dev/TaskForge)** 
+   * Demo: **[Coming soon]** * Repo: **[TaskForge repository](https://github.com/kanyingidickson-dev/TaskForge)** 
 
 - 🎯 **Open-Source Contribution**  
   * **What it is:** A recent contribution to a major open-source project. Demonstrating collaboration, code standards, and real-world application of tech.  
-  * Repo: **[OpenSauced PR Link]**
+  * Repo: **[OpenSauced PR Link]()**
 
 ---
 
