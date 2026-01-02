@@ -1,4 +1,4 @@
-# Hi, I'm Kanyingidickson – Full-Stack Architect & Engineer 👋
+# Hi👋, I'm Kanyingidickson – Full-Stack Architect & Engineer 
 
 **I build and scale web platforms** with a focus on high-performance, secure code. I specialize in taking concepts from ideation to production, with a strong emphasis on **Next.js**, **Node.js**, and **solid Python backends**. If it needs clean architecture and reliable deployment, I’m on it.
 
@@ -15,7 +15,7 @@
 ### 🌟 Featured Projects (See the code)
 Here’s some of what I’ve been working on recently. These projects show off my ability to tackle complexity head-on and deliver solutions that scale.
 
-- 🔥 **DevLink (SaaS Starter Kit)**  
+- 🔥 **DevLink**  
   * **What it is:** A developer profile platform built on a reusable, production-ready SaaS for rapid feature development and scaling. It’s my blueprint for clean architecture and auth.  
   * **Repo:** **[DevLink repository](https://github.com/kanyingidickson-dev/DevLink)**
     
@@ -23,7 +23,7 @@ Here’s some of what I’ve been working on recently. These projects show off m
   * **What it is:** A high-concurrency Node.js gateway leveraging WebSockets to handle low-latency data. Optimized for performance and scalability.  
   * **Repo:** **[Real-Time-API-Gateway repository](https://github.com/kanyingidickson-dev/Real-Time-API-Gateway)**
     
-- 🛡️ **TaskForge (Real-Time Team Task Tracker)**
+- 🛡️ **TaskForge**
   * **What it is:** A scalable, real-time team task management solution utilizing **WebSockets** for instant data synchronization and **Apache 2.0** licensing for enterprise safety.
    * **Repo:** **[TaskForge repository](https://github.com/kanyingidickson-dev/TaskForge)** 
 
@@ -31,7 +31,6 @@ Here’s some of what I’ve been working on recently. These projects show off m
 
 ### 📬 Let's Connect
 - **Portfolio:** https://kanyingidickson-dev.vercel.app  
-- **Email:** kanyingidickson.dev@proton.me  
 - **LinkedIn:** https://www.linkedin.com/in/kanyingidickson-dev
 
 ---
