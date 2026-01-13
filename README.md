@@ -20,17 +20,17 @@ I’m a **Full-Stack Architect & AI/ML Engineer**. I build scalable, high-perfor
 ### **Full-Stack / Web**
 | Project | Tech | Description |
 |--------|------|-------------|
-| [DevLink](https://github.com/Kanyingidickson/DevLink) | Next.js, Node.js | Developer social profile hub with clean SaaS architecture. |
-| [TaskForge](https://github.com/Kanyingidickson/TaskForge) | Node.js, WebSockets | Real-time team task manager with instant updates; Apache 2.0 licensed. |
-| [Real-Time API Gateway](https://github.com/Kanyingidickson/Real-Time-API-Gateway) | Node.js, WebSockets | High-concurrency gateway optimized for low-latency data. |
+| [DevLink](https://github.com/kanyingidickson-dev/DevLink) | Next.js, Node.js | Developer social profile hub with clean SaaS architecture. |
+| [TaskForge](https://github.com/Kanyingidickson-dev/TaskForge) | Node.js, WebSockets | Real-time team task manager with instant updates; Apache 2.0 licensed. |
+| [Real-Time API Gateway](https://github.com/Kanyingidickson-dev/Real-Time-API-Gateway) | Node.js, WebSockets | High-concurrency gateway optimized for low-latency data. |
 
 ### **AI / ML / LLM**
 | Project | Tech | Description |
 |--------|------|-------------|
-| [CodeSage](https://github.com/Kanyingidickson/CodeSage) | Python, LLM | AI-powered code reviewer delivering structured senior-engineer feedback. |
-| [AI Annotation & Evaluation Tools](https://github.com/Kanyingidickson/AI-annotation-evaluation-tools) | Python | Workflows for high-quality AI data annotation and LLM response evaluation. |
-| [FinPulse](https://github.com/Kanyingidickson/FinPulse-multilingual-sentiment) | Python, Transformers | Multilingual financial sentiment analysis for market intelligence. |
-| [Prompt Evaluation Playground](https://github.com/Kanyingidickson/Prompt-evaluation-playground) | Python | Extensible framework to evaluate, score, and benchmark LLM prompts. |
+| [CodeSage](https://github.com/Kanyingidickson-dev/CodeSage) | Python, LLM | AI-powered code reviewer delivering structured senior-engineer feedback. |
+| [AI Annotation & Evaluation Tools](https://github.com/Kanyingidickson-dev/AI-annotation-evaluation-tools) | Python | Workflows for high-quality AI data annotation and LLM response evaluation. |
+| [FinPulse](https://github.com/Kanyingidickson-dev/FinPulse-multilingual-sentiment) | Python, Transformers | Multilingual financial sentiment analysis for market intelligence. |
+| [Prompt Evaluation Playground](https://github.com/Kanyingidickson-dev/Prompt-evaluation-playground) | Python | Extensible framework to evaluate, score, and benchmark LLM prompts. |
 
 > All the above projects are pinned on my GitHub for quick access.  
 
