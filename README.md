@@ -1,44 +1,58 @@
-# Hi👋, I'm Kanyingidickson – Full-Stack Architect & Engineer 
+---
 
-**I build and scale web platforms** with a focus on high-performance, secure code. I specialize in taking concepts from ideation to production, with a strong emphasis on **Next.js**, **Node.js**, and **solid Python backends**. If it needs clean architecture and reliable deployment, I’m on it.
+# Hi 👋, I'm Kanyingidickson
+
+I’m a **Full-Stack Architect & AI/ML Engineer**. I build scalable, high-performance web platforms and design intelligent systems powered by machine learning and LLMs. From ideation to production, I thrive at the intersection of **clean architecture, cutting-edge AI, and deployable systems**. Whether it’s building a real-time SaaS product or evaluating LLM prompts for enterprise use, I focus on **robust, maintainable, and scalable solutions**.
 
 ---
 
-### 🛠️ The Stack (What I use to ship)
+## 🛠️ Tech Stack
+
 **Frontend:** Next.js (Server Components) • TypeScript • React • Tailwind CSS  
 **Backend:** Node.js (Express) • Python (Django/FastAPI) • REST/GraphQL APIs  
-**Data:** PostgreSQL • MongoDB (I choose the right tool for the job)  
-**Ops/Deployment:** CI/CD (GitHub Actions) • Docker • Cloud (AWS/Vercel)  
+**Data & AI/ML:** PostgreSQL • MongoDB • PyTorch • Transformers • Hugging Face • Pandas & NumPy  
+**AI/LLM Tools:** Prompt evaluation frameworks • Annotation pipelines • Finetuning & evaluation workflows  
+**DevOps/Deployment:** CI/CD (GitHub Actions) • Docker • AWS • Vercel
+
+---
+## 🌟 Featured Projects
+
+### **Full-Stack / Web**
+| Project | Tech | Description |
+|--------|------|-------------|
+| [DevLink](https://github.com/Kanyingidickson/DevLink) | Next.js, Node.js | Developer social profile hub with clean SaaS architecture. |
+| [TaskForge](https://github.com/Kanyingidickson/TaskForge) | Node.js, WebSockets | Real-time team task manager with instant updates; Apache 2.0 licensed. |
+| [Real-Time API Gateway](https://github.com/Kanyingidickson/Real-Time-API-Gateway) | Node.js, WebSockets | High-concurrency gateway optimized for low-latency data. |
+
+### **AI / ML / LLM**
+| Project | Tech | Description |
+|--------|------|-------------|
+| [CodeSage](https://github.com/Kanyingidickson/CodeSage) | Python, LLM | AI-powered code reviewer delivering structured senior-engineer feedback. |
+| [AI Annotation & Evaluation Tools](https://github.com/Kanyingidickson/AI-annotation-evaluation-tools) | Python | Workflows for high-quality AI data annotation and LLM response evaluation. |
+| [FinPulse](https://github.com/Kanyingidickson/FinPulse-multilingual-sentiment) | Python, Transformers | Multilingual financial sentiment analysis for market intelligence. |
+| [Prompt Evaluation Playground](https://github.com/Kanyingidickson/Prompt-evaluation-playground) | Python | Extensible framework to evaluate, score, and benchmark LLM prompts. |
+
+> All the above projects are pinned on my GitHub for quick access.  
+
 
 ---
 
-### 🌟 Featured Projects (See the code)
-Here’s some of what I’ve been working on recently. These projects show off my ability to tackle complexity head-on and deliver solutions that scale.
+## 📈 My Focus
 
-- 🔥 **DevLink**  
-  * **What it is:** A developer profile platform built on a reusable, production-ready SaaS for rapid feature development and scaling. It’s my blueprint for clean architecture and auth.  
-  * **Repo:** **[DevLink repository](https://github.com/kanyingidickson-dev/DevLink)**
-    
-- ⚡ **Real-Time API Gateway**  
-  * **What it is:** A high-concurrency Node.js gateway leveraging WebSockets to handle low-latency data. Optimized for performance and scalability.  
-  * **Repo:** **[Real-Time-API-Gateway repository](https://github.com/kanyingidickson-dev/Real-Time-API-Gateway)**
-    
-- 🛡️ **TaskForge**
-  * **What it is:** A scalable, real-time team task management solution utilizing **WebSockets** for instant data synchronization and **Apache 2.0** licensing for enterprise safety.
-   * **Repo:** **[TaskForge repository](https://github.com/kanyingidickson-dev/TaskForge)** 
+* **Greenfield Architecture & System Refactoring:** Design scalable systems from scratch or refactor for performance.
+* **AI/ML & LLM Applications:** Developing and evaluating intelligent systems for code, text, and data.
+* **Real-Time Systems:** High-concurrency, low-latency web apps and data pipelines.
 
 ---
 
-### 📬 Let's Connect
-- **Portfolio:** https://kanyingidickson-dev.vercel.app  
-- **LinkedIn:** https://www.linkedin.com/in/kanyingidickson-dev
+## 📬 Let’s Connect
+
+* **Visit:** [My Portfolio ](https://kanyingidickson-dev.vercel.app)
+* **Follow:** [My LinkedIn profile](https://www.linkedin.com/in/kanyingidickson-dev)
+
+Currently open to **freelance and full-time opportunities**. 
+Let’s build something impactful together! 
 
 ---
-
-### 📈 My Focus
-I thrive on **Greenfield Architecture** and **System Refactoring**. Whether you need someone to design a system from scratch or refactor an existing one for scalability and performance, I’ve got you covered. 
-
-Currently open to **freelance** and **full-time** opportunities. Let’s build something great together!
 
 Thanks for stopping by! 🚀
-
