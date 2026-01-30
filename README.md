@@ -20,7 +20,8 @@ I’m a **Full-Stack Architect & AI/ML Engineer**. I build scalable, high-perfor
 ### **Full-Stack / Web**
 | Project | Tech | Description |
 |--------|------|-------------|
-| [DevLink](https://github.com/kanyingidickson-dev/DevLink) | Next.js, Node.js | Developer social profile hub with clean SaaS architecture. |
+| [ShopCraft](https://github.com/kanyingidickson-dev/ShopCraft) | Node.js, Express, RESTful API| A simple, modern, scalable e-commerce platform. |
+| [DevLink](https://github.com/kanyingidickson-dev/DevLink) | Next.js, MSW, Node.js | Developer social profile hub with clean SaaS architecture. |
 | [TaskForge](https://github.com/Kanyingidickson-dev/TaskForge) | Node.js, WebSockets | Real-time team task manager with instant updates; Apache 2.0 licensed. |
 | [Real-Time API Gateway](https://github.com/Kanyingidickson-dev/Real-Time-API-Gateway) | Node.js, WebSockets | High-concurrency gateway optimized for low-latency data. |
 
